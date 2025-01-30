@@ -1,0 +1,38 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: white;
+    color: hsl(0, 89%, 4%);
+}
+
+/* Cabeçalho */
+header {
+    background: #333;
+    color: #0f9718;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #0f9718;
+    text-decoration: none;
+}
+
+/* Seções */
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background: #0f9718;;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
